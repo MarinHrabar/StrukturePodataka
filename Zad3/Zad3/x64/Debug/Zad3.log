@@ -1,0 +1,3 @@
+﻿  zadatak3.c
+C:\Users\Marin\Desktop\Marin Hrabar\Zad3\Zad3\zadatak3.c(173,12): warning C4013: 'toupper' undefined; assuming extern returning int
+  Zad3.vcxproj -> C:\Users\Marin\Desktop\Marin Hrabar\Zad3\x64\Debug\Zad3.exe

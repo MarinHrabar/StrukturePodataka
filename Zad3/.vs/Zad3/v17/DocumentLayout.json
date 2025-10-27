@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zad3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D205DFD-8736-424B-929D-CC3E7ED0E57C}|Zad3\\Zad3.vcxproj|C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zad3\\Zad3\\zadatak3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D205DFD-8736-424B-929D-CC3E7ED0E57C}|Zad3\\Zad3.vcxproj|solutionrelative:Zad3\\zadatak3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D205DFD-8736-424B-929D-CC3E7ED0E57C}|Zad3\\Zad3.vcxproj|C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zad3\\Zad3\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D205DFD-8736-424B-929D-CC3E7ED0E57C}|Zad3\\Zad3.vcxproj|solutionrelative:Zad3\\list.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.txt",
+              "DocumentMoniker": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zad3\\Zad3\\list.txt",
+              "RelativeDocumentMoniker": "Zad3\\list.txt",
+              "ToolTip": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zad3\\Zad3\\list.txt",
+              "RelativeToolTip": "Zad3\\list.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-27T22:09:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadatak3.c",
+              "DocumentMoniker": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zad3\\Zad3\\zadatak3.c",
+              "RelativeDocumentMoniker": "Zad3\\zadatak3.c",
+              "ToolTip": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zad3\\Zad3\\zadatak3.c",
+              "RelativeToolTip": "Zad3\\zadatak3.c",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-27T21:18:04.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
