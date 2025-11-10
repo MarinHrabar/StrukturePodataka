@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E465B8-2EDD-48FF-B559-F0EFE2062EF6}|Zadatak5\\Zadatak5.vcxproj|C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak5\\Zadatak5\\Zadatak5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E465B8-2EDD-48FF-B559-F0EFE2062EF6}|Zadatak5\\Zadatak5.vcxproj|solutionrelative:Zadatak5\\Zadatak5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E465B8-2EDD-48FF-B559-F0EFE2062EF6}|Zadatak5\\Zadatak5.vcxproj|C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak5\\Zadatak5\\postfix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85E465B8-2EDD-48FF-B559-F0EFE2062EF6}|Zadatak5\\Zadatak5.vcxproj|solutionrelative:Zadatak5\\postfix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "postfix.txt",
+              "DocumentMoniker": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak5\\Zadatak5\\postfix.txt",
+              "RelativeDocumentMoniker": "Zadatak5\\postfix.txt",
+              "ToolTip": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak5\\Zadatak5\\postfix.txt",
+              "RelativeToolTip": "Zadatak5\\postfix.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-10T23:13:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadatak5.c",
+              "DocumentMoniker": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak5\\Zadatak5\\Zadatak5.c",
+              "RelativeDocumentMoniker": "Zadatak5\\Zadatak5.c",
+              "ToolTip": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak5\\Zadatak5\\Zadatak5.c",
+              "RelativeToolTip": "Zadatak5\\Zadatak5.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-04T18:07:54.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
