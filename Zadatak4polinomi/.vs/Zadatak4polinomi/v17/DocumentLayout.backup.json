@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak4polinomi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB71C2-BD6D-4395-9B6B-F717CADE6086}|Zadatak4polinomi\\Zadatak4polinomi.vcxproj|C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak4polinomi\\Zadatak4polinomi\\zadatak4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BCB71C2-BD6D-4395-9B6B-F717CADE6086}|Zadatak4polinomi\\Zadatak4polinomi.vcxproj|solutionrelative:Zadatak4polinomi\\zadatak4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB71C2-BD6D-4395-9B6B-F717CADE6086}|Zadatak4polinomi\\Zadatak4polinomi.vcxproj|C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak4polinomi\\Zadatak4polinomi\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6BCB71C2-BD6D-4395-9B6B-F717CADE6086}|Zadatak4polinomi\\Zadatak4polinomi.vcxproj|solutionrelative:Zadatak4polinomi\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak4polinomi\\Zadatak4polinomi\\input.txt",
+              "RelativeDocumentMoniker": "Zadatak4polinomi\\input.txt",
+              "ToolTip": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak4polinomi\\Zadatak4polinomi\\input.txt",
+              "RelativeToolTip": "Zadatak4polinomi\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-02T12:26:12.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadatak4.c",
+              "DocumentMoniker": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak4polinomi\\Zadatak4polinomi\\zadatak4.c",
+              "RelativeDocumentMoniker": "Zadatak4polinomi\\zadatak4.c",
+              "ToolTip": "C:\\Users\\Marin\\Desktop\\Marin Hrabar\\Zadatak4polinomi\\Zadatak4polinomi\\zadatak4.c",
+              "RelativeToolTip": "Zadatak4polinomi\\zadatak4.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-02T11:36:08.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
