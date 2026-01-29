@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Marin\Desktop\Marin Hrabar\zadatak8-9\zadatak8-9\main.c(76,18): warning C4047: '=': 'treePos' differs in levels of indirection from 'int'
+  zadatak8-9.vcxproj -> C:\Users\Marin\Desktop\Marin Hrabar\zadatak8-9\x64\Debug\zadatak8-9.exe
